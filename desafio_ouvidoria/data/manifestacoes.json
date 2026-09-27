@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2026-03-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Calçada toda quebrada na Rua das Flores, perto do número 120. Dois idosos já caíram tentando passar por ali e ninguém da prefeitura veio consertar."
+  },
+  {
+    "id": "M002",
+    "data": "2026-03-02",
+    "categoria_oficial": "saúde",
+    "texto": "Fiquei mais de cinco horas esperando atendimento na UPA do Centro com meu filho de dois anos com febre alta. Só havia um clínico de plantão."
+  },
+  {
+    "id": "M003",
+    "data": "2026-03-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Tem um buraco enorme na Av. Brasil, em frente ao supermercado Bom Preço. Vários carros já estouraram o pneu e um motociclista caiu ontem."
+  },
+  {
+    "id": "M004",
+    "data": "2026-03-03",
+    "categoria_oficial": "segurança",
+    "texto": "Os moradores da Rua Sete estão com medo porque aconteceram três assaltos nesta semana na esquina da padaria, sempre depois das dez da noite."
+  },
+  {
+    "id": "M005",
+    "data": "2026-03-04",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A Rua Pernambuco está completamente escura à noite porque os postes de iluminação estão apagados há mais de um mês."
+  },
+  {
+    "id": "M006",
+    "data": "2026-03-04",
+    "categoria_oficial": "educação",
+    "texto": "A Escola Municipal Maria José está sem professor de matemática desde o início do semestre e os alunos do 8º ano estão sem aula dessa matéria."
+  },
+  {
+    "id": "M007",
+    "data": "2026-03-05",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma fábrica do distrito industrial solta fumaça preta todas as noites. O cheiro forte chega até as casas do bairro Vila Nova e as crianças acordam tossindo."
+  },
+  {
+    "id": "M008",
+    "data": "2026-03-05",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do Jardim América está sem médico há duas semanas. As pessoas vão até lá e voltam para casa sem consulta."
+  },
+  {
+    "id": "M009",
+    "data": "2026-03-06",
+    "categoria_oficial": "segurança",
+    "texto": "Os carros passam em alta velocidade na frente da creche da Rua Ceará e não existe faixa de pedestre nem lombada. É questão de tempo até atropelarem uma criança."
+  },
+  {
+    "id": "M010",
+    "data": "2026-03-06",
+    "categoria_oficial": "saúde",
+    "texto": "Sou diabético e dependo da insulina que a farmácia básica do posto do bairro Esperança deveria fornecer todo mês. Desde janeiro a farmácia diz que o medicamento está em falta e que não há previsão de chegada. Já fui lá quatro vezes, perdi dias de trabalho e em uma das visitas a funcionária disse para eu procurar outra unidade, que também estava sem estoque. Comprar na farmácia particular custa quase metade do meu salário. Minha glicemia está descontrolada e meu médico disse que posso ter complicações sérias. Peço que a Secretaria de Saúde regularize o abastecimento e informe à população quando os remédios chegam."
+  },
+  {
+    "id": "M011",
+    "data": "2026-03-09",
+    "categoria_oficial": "educação",
+    "texto": "Os alunos da Escola Paulo Freire estão sem merenda escolar há uma semana. Muitas crianças só fazem uma refeição por dia, que é a da escola."
+  },
+  {
+    "id": "M012",
+    "data": "2026-03-09",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Estão cortando as árvores antigas da praça central sem nenhuma placa de autorização da prefeitura. Já derrubaram quatro ipês."
+  },
+  {
+    "id": "M013",
+    "data": "2026-03-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O bueiro da Rua Bahia está entupido e, quando chove, a água da rua invade as casas. Já perdemos móveis duas vezes neste ano."
+  },
+  {
+    "id": "M014",
+    "data": "2026-03-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há lixo acumulado no terreno baldio da Rua Goiás há meses. O mato está alto, tem rato e o mau cheiro está insuportável."
+  },
+  {
+    "id": "M015",
+    "data": "2026-03-11",
+    "categoria_oficial": "segurança",
+    "texto": "Um grupo usa drogas todas as noites na quadra de esportes do bairro Novo Horizonte e intimida quem passa, inclusive crianças que voltam da escola."
+  },
+  {
+    "id": "M016",
+    "data": "2026-03-11",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Moro na comunidade do Sítio Várzea e a única ligação com a cidade é uma ponte de madeira sobre o riacho que está com várias tábuas podres e sem proteção lateral. Quando chove, a estrada de terra que chega até a ponte vira lama e o ônibus escolar e o carro do lixo simplesmente param de passar. No mês passado uma moto caiu da ponte e o rapaz quebrou a perna. Os moradores já fizeram mutirão para trocar algumas tábuas, mas o problema é estrutural. Pedimos a construção de uma ponte de concreto e o cascalhamento da estrada antes do próximo inverno, porque a comunidade fica isolada."
+  },
+  {
+    "id": "M017",
+    "data": "2026-03-12",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto todo esburacado da avenida principal está causando acidentes. Precisa de recapeamento urgente, os carros desviam dos buracos e invadem a outra pista."
+  },
+  {
+    "id": "M018",
+    "data": "2026-03-12",
+    "categoria_oficial": "educação",
+    "texto": "O ônibus escolar da zona rural quebrou e as crianças estão faltando às aulas porque não têm como chegar à escola."
+  },
+  {
+    "id": "M019",
+    "data": "2026-03-13",
+    "categoria_oficial": "segurança",
+    "texto": "Assaltos frequentes no ponto de ônibus da Avenida Norte, principalmente de manhã cedo quando ainda está escuro e os trabalhadores esperam a condução."
+  },
+  {
+    "id": "M020",
+    "data": "2026-03-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O córrego que passa atrás do Conjunto Habitacional Primavera está recebendo esgoto clandestino. A água ficou preta e tem cheiro forte."
+  },
+  {
+    "id": "M021",
+    "data": "2026-03-16",
+    "categoria_oficial": "educação",
+    "texto": "O telhado da quadra da escola estadual está caindo e os alunos estão proibidos de fazer educação física há três meses."
+  },
+  {
+    "id": "M022",
+    "data": "2026-03-16",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF do meu bairro. Não tem doutor para consultar e mandam a gente voltar outro dia, mas no outro dia também não tem."
+  },
+  {
+    "id": "M023",
+    "data": "2026-03-17",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um bar na Rua Alagoas coloca som muito alto até as três da manhã, de quinta a domingo. Ninguém na rua consegue dormir."
+  },
+  {
+    "id": "M024",
+    "data": "2026-03-17",
+    "categoria_oficial": "segurança",
+    "texto": "Escrevo em nome da associação de moradores do Parque das Árvores. Há cerca de seis meses se instalou um ponto de venda de drogas na praça ao lado da escola municipal, e desde então aumentaram os furtos de celulares, as brigas e as pichações. A praça está sem iluminação, o que facilita a ação dos criminosos, e a viatura da Guarda Municipal só aparece quando alguém liga, o que demora mais de uma hora. Os pais estão com medo de deixar os filhos irem sozinhos para a aula. Solicitamos rondas regulares no horário de entrada e saída dos alunos, a instalação de câmeras e a iluminação da praça."
+  },
+  {
+    "id": "M025",
+    "data": "2026-03-18",
+    "categoria_oficial": "saúde",
+    "texto": "A ambulância do SAMU demorou mais de uma hora para chegar quando meu pai passou mal em casa com dor no peito."
+  },
+  {
+    "id": "M026",
+    "data": "2026-03-18",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Poste sem luz na Rua Pernambuco. À noite a rua vira um breu e ninguém consegue ver nada, já pedimos a troca das lâmpadas várias vezes."
+  },
+  {
+    "id": "M027",
+    "data": "2026-03-19",
+    "categoria_oficial": "educação",
+    "texto": "Faltam vagas na creche municipal. Estou na fila de espera há oito meses e preciso voltar a trabalhar."
+  },
+  {
+    "id": "M028",
+    "data": "2026-03-19",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimadas frequentes no terreno ao lado da escola estão deixando as crianças com problemas respiratórios e os olhos ardendo."
+  },
+  {
+    "id": "M029",
+    "data": "2026-03-20",
+    "categoria_oficial": "educação",
+    "texto": "As crianças da Escola Paulo Freire não estão recebendo lanche há vários dias porque a merenda acabou e não chegou reposição."
+  },
+  {
+    "id": "M030",
+    "data": "2026-03-20",
+    "categoria_oficial": "saúde",
+    "texto": "Não consigo marcar exame de ultrassom pelo SUS. A fila está com mais de seis meses de espera e meu médico pediu com urgência."
+  },
+  {
+    "id": "M031",
+    "data": "2026-03-23",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Lâmpada queimada na praça do bairro Boa Vista. A praça fica escura e perigosa à noite e os moradores deixaram de usar o espaço."
+  },
+  {
+    "id": "M032",
+    "data": "2026-03-23",
+    "categoria_oficial": "segurança",
+    "texto": "Motos fazendo racha na Avenida Beira Rio nos fins de semana. Já houve um atropelamento e os moradores têm medo de atravessar."
+  },
+  {
+    "id": "M033",
+    "data": "2026-03-24",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Todas as semanas caminhões descarregam entulho de construção e restos de poda às margens do Rio Jaguaribe, no trecho próximo à ponte da BR. O material já forma uma barreira que desvia a água e, na última cheia, o rio transbordou para dentro das casas da Rua da Beira. Além do entulho há sacos de lixo doméstico, pneus velhos e até carcaças de geladeira. Os peixes estão morrendo e os pescadores da colônia não conseguem mais tirar o sustento. Já denunciamos à Secretaria de Meio Ambiente e nada foi feito. Pedimos fiscalização com multa para quem descarta irregularmente e a limpeza do leito do rio."
+  },
+  {
+    "id": "M034",
+    "data": "2026-03-24",
+    "categoria_oficial": "saúde",
+    "texto": "Faltam remédios de pressão na farmácia do posto. Tenho que comprar do meu bolso e sou aposentado com um salário mínimo."
+  },
+  {
+    "id": "M035",
+    "data": "2026-03-25",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Terreno abandonado na Rua Goiás cheio de lixo e entulho. Aparecem ratos e baratas nas casas vizinhas e ninguém limpa."
+  },
+  {
+    "id": "M036",
+    "data": "2026-03-25",
+    "categoria_oficial": "educação",
+    "texto": "Os computadores do laboratório de informática da escola estão quebrados há mais de um ano e os alunos não têm aula de informática."
+  },
+  {
+    "id": "M037",
+    "data": "2026-03-26",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento da Av. Brasil com a Rua Sergipe está desligado há dias e já houve três batidas."
+  },
+  {
+    "id": "M038",
+    "data": "2026-03-26",
+    "categoria_oficial": "segurança",
+    "texto": "Todo dia alguém é roubado na parada de ônibus da Av. Norte logo cedo. Precisamos de policiamento nesse horário."
+  },
+  {
+    "id": "M039",
+    "data": "2026-03-27",
+    "categoria_oficial": "saúde",
+    "texto": "Minha mãe tem 78 anos e precisa de fisioterapia depois de uma cirurgia, mas o posto diz que não tem profissional disponível."
+  },
+  {
+    "id": "M040",
+    "data": "2026-03-27",
+    "categoria_oficial": "educação",
+    "texto": "Meu filho tem 9 anos, é cadeirante e estuda na Escola Municipal Santa Luzia. A escola não tem rampa na entrada, o único banheiro adaptado está trancado servindo de depósito e a sala dele fica no primeiro andar, sem elevador. Todos os dias um funcionário precisa carregá-lo no colo pela escada, o que é humilhante e perigoso. Além disso, desde fevereiro ele está sem a professora auxiliar que a lei garante, e a professora da turma não consegue dar a atenção de que ele precisa. Já protocolei pedidos na Secretaria de Educação duas vezes. Peço obras de acessibilidade e a contratação imediata da auxiliar de inclusão."
+  }
+]
